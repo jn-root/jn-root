@@ -1,6 +1,6 @@
 # Justin Nguyen
 
-Founder building [Mithrify](https://mithrify.com).
+Founder of Mithrify.
 
 I build local-first AI software and practical open-source developer tools.
 
@@ -10,12 +10,10 @@ I build local-first AI software and practical open-source developer tools.
 
 Local memory for AI work.
 
-Mithrify is a local-first memory workbench for AI conversations, project reasoning, and agent continuity.
+A local-first memory workbench that preserves AI conversations, decisions, prompts, and project knowledge as durable local Markdown that users own and can reuse across AI tools.
 
-It preserves conversations, decisions, prompts, and project knowledge as durable local Markdown that users own and can reuse across AI tools.
-
-- Website: [mithrify.com](https://mithrify.com)
-- X: [@justinnguyen](https://x.com/justinnguyen)
+* Website: [mithrify.com](https://mithrify.com)
+* X: [@justinnguyen](https://x.com/justinnguyen)
 
 ## Open Source
 
@@ -23,7 +21,7 @@ It preserves conversations, decisions, prompts, and project knowledge as durable
 
 A beginner-friendly command-line tool that downloads audio from YouTube videos and creates local text and Markdown transcripts using Faster Whisper.
 
-[View the repository](https://github.com/jn-root/youtube-transcriber).
+[View the repository.](https://github.com/jn-root/youtube-transcriber)
 
 MIT licensed.
 
