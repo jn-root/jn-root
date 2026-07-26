@@ -1,9 +1,3 @@
-# Building Mithrify
-
-Local memory for AI work.
+I’m building Mithrify.
 
 A local-first memory workbench for AI conversations, project reasoning, and agent continuity.
-
-## Open Source
-
-* YouTube Audio and Text Transcriber
